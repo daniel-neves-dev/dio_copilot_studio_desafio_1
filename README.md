@@ -63,12 +63,30 @@ Criar um Copilot baseado em descrição com IA significa utilizar a inteligênci
   </tr>
 </table>
 </div>
--------------------------------------------------------------------------------------------------------------
 
+</br>
+
+<h2>Criar um Copilot em Branco 🏗️ ⚒</h2>
+<p>
+Criar um Copilot em Branco no Microsoft Copilot Studio significa começar um assistente do zero, sem modelos ou fluxos pré-definidos. Isso dá total liberdade para personalizar conversas, interações e integrações, tornando-o ideal para projetos específicos e complexos.
+</p>
+<h3>🎯 Vantagens de Criar um Copilot em Branco</h3>
+<p>✅ Totalmente Personalizável – Você cria tudo do zero de acordo com a necessidade.</p>
+<p>✅ Mais Controle – Defina fluxos, regras e integrações sem restrições de templates.</p>
+<p>✅ Ideal para Projetos Específicos – Perfeito quando nenhum modelo pronto atende sua necessidade.</p>
+<p>✅ Flexibilidade na Programação – Adapte scripts e chamadas de API para maior interatividade.</p>
+  
+<div align = center>
+  <table>
+  <tr>
+    <td ><img src="https://github.com/user-attachments/assets/14185c0c-e1cf-4d26-9c89-431f377f7e73"></td>
+  </tr>
+</table>
+</div>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👨‍💻 Tecnologias Usadas:
-- Python 3 v3.8
+-Microsoft Copilot Studio
 
--------------------------------------------------------------------------------------------------------------
 
 
