@@ -86,7 +86,7 @@ Criar um Copilot em Branco no Microsoft Copilot Studio significa começar um ass
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 👨‍💻 Tecnologias Usadas:
--Microsoft Copilot Studio
+- Microsoft Copilot Studio
 
 
 
