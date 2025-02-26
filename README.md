@@ -43,6 +43,26 @@ Criar um Copilot a partir de um modelo no Microsoft Copilot Studio significa uti
   </tr>
 </table>
 </div>
+
+</br>
+
+<h2>Criar um Copilot baseado em descrição com IA 🧠🤖</h2>
+<p>
+Criar um Copilot baseado em descrição com IA significa utilizar a inteligência artificial generativa do Microsoft Copilot Studio para construir um assistente virtual apenas descrevendo suas funcionalidades. Esse processo elimina a necessidade de desenvolver manualmente fluxos de conversação e regras lógicas, pois a IA faz isso automaticamente com base na descrição fornecida.
+</p>
+<h3>🎯 Vantagens de Criar com IA</h3>
+<p>✅ Rápido – Basta descrever o que você quer e a IA cria a base do Copilot.</p>
+<p>✅ Inteligente – A IA estrutura diálogos e interações automaticamente.</p>
+<p>✅ Fácil Integração – Pode ser conectado a serviços da Microsoft e APIs externas.</p>
+<p>✅ Menos Código – Ideal para quem quer um chatbot funcional sem precisar programar.</p>
+
+<div align = center>
+  <table>
+  <tr>
+    <td ><img src="https://github.com/user-attachments/assets/ecc516c6-b63b-487a-a1b1-7bf945db955d"></td>
+  </tr>
+</table>
+</div>
 -------------------------------------------------------------------------------------------------------------
 
 
